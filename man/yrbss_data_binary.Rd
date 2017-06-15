@@ -16,7 +16,6 @@ Data from CDC YRBSS - the Binary Version, where multiple choice questions were g
 }
 \examples{
 data(yrbss_data_binary)
-\donttest{iplotCurves(phe, times)}
 }
 \references{
 Centers for Disease Control and Prevention. Youth Risk Behavior Survey Questionnaire. Accessed on [2017-06-14].

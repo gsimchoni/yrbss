@@ -17,5 +17,4 @@
 #'
 #' @examples
 #' data(yrbss_data)
-#' \donttest{iplotCurves(phe, times)}
 "yrbss_data"

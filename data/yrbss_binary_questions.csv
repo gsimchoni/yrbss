@@ -1,0 +1,177 @@
+variable,label
+sitecode,sitecode
+sitename,sitename
+sitetype,sitetype
+sitetypenum,sitetypenum
+year,year
+survyear,survyear
+weight,weight
+stratum,stratum
+PSU,PSU
+record,record
+age,How old are you?
+sex,What is your sex?
+grade,In what grade are you?
+race4,race4
+race7,race7
+stheight,How tall are you without your shoes on?
+stweight,How much do you weigh without your shoes on?
+bmi,bmi
+bmipct,bmipct
+qnobese,qnobese
+qnowt,qnowt
+q68,Which of the following best describes you?
+q67,"During your life, with whom have you had sexual contact?"
+sexid,Sexual identity
+sexid2,Collapsed sexual identity
+sexpart,Sex of sexual contact(s)
+sexpart2,Collapsed sex of sexual contact(s):
+qn8,Rarely or never wore a bicycle helmet
+qn9,Rarely or never wore a seat belt
+qn10,Rode with a driver who had been drinking alcohol
+qn11,Drove when drinking alcohol
+qn12,Texted or e-mailed while driving a car or other vehicle
+qn13,Carried a weapon
+qn14,Carried a gun
+qn15,Carried a weapon on school property
+qn16,Did not go to school because they felt unsafe at school or on their way to or from school
+qn17,Were threatened or injured with a weapon on school property
+qn18,Were in a physical fight
+qn19,Were injured in a physical fight
+qn20,Were in a physical fight on school property
+qn21,Were ever physically forced to have sexual intercourse
+qn22,Experienced physical dating violence
+qn23,Experienced sexual dating violence
+qn24,Were bullied on school property
+qn25,Were electronically bullied
+qn26,Felt sad or hopeless
+qn27,Seriously considered attempting suicide
+qn28,Made a plan about how they would attempt suicide
+qn29,Attempted suicide
+qn30,"Attempted suicide that resulted in an injury, poisoning, or overdose that had to be treated by a doctor or nurse"
+qn31,Ever tried cigarette smoking
+qn32,Smoked a whole cigarette before age 13 years
+qn33,Currently smoked cigarettes
+qn34,Smoked more than 10 cigarettes per day
+qn35,Usually obtained their own cigarettes by buying them in a store or gas station
+qn36,Tried to quit smoking cigarettes
+qn37,Currently used smokeless tobacco
+qn38,Currently smoked cigars
+qn39,Ever used electronic vapor products
+qn40,Currently used electronic vapor products
+qn41,Ever drank alcohol
+qn42,Drank alcohol before age 13 years
+qn43,Currently drank alcohol
+qn44,Drank five or more drinks of alcohol in a row
+qn45,Reported that the largest number of drinks they had in a row was 10 or more
+qn46,Usually obtained the alcohol they drank by someone giving it to them
+qn47,Ever used marijuana
+qn48,Tried marijuana before age 13 years
+qn49,Currently used marijuana
+qn50,Ever used cocaine
+qn51,Ever used inhalants
+qn52,Ever used heroin
+qn53,Ever used methamphetamines
+qn54,Ever used ecstasy
+qn55,Ever used synthetic marijuana
+qn56,Ever took steroids without a doctor's prescription
+qn57,Ever took prescription drugs without a doctor's prescription
+qn58,Ever injected any illegal drug
+qn59,"Were offered, sold, or given an illegal drug on school property"
+qn60,Ever had sexual intercourse
+qn61,Had sexual intercourse before age 13 years
+qn62,Had sexual intercourse with four or more persons
+qn63,Were currently sexually active
+qn64,Drank alcohol or used drugs before last sexual intercourse
+qn65,Used a condom
+qn66,Used birth control pills
+qn69,Described themselves as slightly or very overweight
+qn70,Were trying to lose weight
+qn71,Did not drink fruit juice
+qn72,Did not eat fruit
+qn73,Did not eat salad
+qn74,Did not eat potatoes
+qn75,Did not eat carrots
+qn76,Did not eat other vegetables
+qn77,"Did not drink a can, bottle, or glass of soda or pop"
+qn78,Did not drink milk
+qn79,Did not eat breakfast
+qn80,Were physically active at least 60 minutes per day on 5 or more days
+qn81,Watched television 3 or more hours per day
+qn82,Played video or computer games or used a computer 3 or more hours per day
+qn83,Attended physical education classes on 1 or more days
+qn84,Played on at least one sports team
+qn85,Were ever tested for HIV
+qn86,Saw a dentist
+qn87,Had ever been told by a doctor or nurse that they had asthma
+qn88,Had 8 or more hours of sleep
+qn89,Made mostly A's or B's in school
+qnfrcig,Currently frequently smoked cigarettes
+qndaycig,Currently smoked cigarettes daily
+qncigint,Usually obtained their own cigarettes by buying on the internet
+qntob2,Currently smoked cigarettes or cigars
+qntob3,"Currently used cigarettes, cigars, or smokeless tobacco"
+qntob4,Currently used tobacco
+qnnotob2,Did not currently smoke cigarettes or cigars
+qnnotob3,"Did not currently use cigarettes, cigars, or smokeless tobacco"
+qnnotob4,Did not currently use tobacco
+qniudimp,"Used an IUD (e.g., Mirena or ParaGard) or implant (e.g., Implanon or Nexplanon)"
+qnshparg,"Used a shot (e.g., Depo-Provera), patch (e.g., OrthoEvra), or birth control ring (e.g., NuvaRing)"
+qnothhpl,"Used birth control pills; an IUD or implant; or a shot, patch, or birth control ring"
+qndualbc,"Used both a condom during and birth control pills; an IUD or implant; or a shot, patch, or birth control ring before last sexual intercourse"
+qnbcnone,Did not use any method to prevent pregnancy
+qnfr0,Did not eat fruit or drink 100% fruit juices
+qnfr1,Ate fruit or drank 100% fruit juices one or more times per day
+qnfr2,Ate fruit or drank 100% fruit juices two or more times per day
+qnfr3,Ate fruit or drank 100% fruit juices three or more times per day
+qnveg0,Did not eat vegetables
+qnveg1,Ate vegetables one or more times per day
+qnveg2,Ate vegetables two or more times per day
+qnveg3,Ate vegetables three or more times per day
+qnsoda1,"Drank a can, bottle, or glass of soda or pop one or more times per day"
+qnsoda2," Drank a can, bottle, or glass of soda or pop two or more times per day"
+qnsoda3,"Drank a can, bottle, or glass of soda or pop three or more times per day"
+qnmilk1,Drank one or more glasses per day of milk
+qnmilk2,Drank two or more glasses per day of milk
+qnmilk3,Drank three or more glasses per day of milk
+qnbk7day,Ate breakfast on all 7 days
+qnpa0day,Did not participate in at least 60 minutes of physical activity on at least 1 day
+qnpa7day,Were physically active at least 60 minutes per day on all 7 days
+qndlype,Attended physical education classes on all 5 days
+qnhowmarijuana,"Usually used marijuana by smoking it in a joint, bong, pipe, or blunt"
+qnhallucdrug,Used LSD 1+ times
+qnsunscreenuse,Mostly or always wear sunscreen
+qnindoortanning,Used 1+ times indoor tanning
+qnmusclestrength,Strengthened muscles 3+ of past 7 days
+qngenderexp,Equally feminine and masculine
+qncelldriving,Talked on cell phone driving 1+ past 30d
+qnbullyweight,Been teased b/c of weight past 12 mos
+qnbullygay,Been teased b/c labeled GLB past 12 mos
+qntypealcohol,Liquor type alcohol drank past 30 days
+qncigschool,Used cigarettes at school 1+ 30 days
+qnchewtobschool,Used snuff/dip at school 1+ 30 days
+qnalcoholschool,Had 1+ drinks at school 1+ 30 days
+qnmarijuanaschool,Used marijuana @ school 1+ times 30 day
+qnprescription30d,Prescription drug 1+ times past 30 days
+qncurrentcocaine,Used cocaine 1+ times past 30 days
+qncurrentasthma,With current asthma
+qntaughtsexed,Had sex education in school ever
+qntaughtstd,Been taught in school about STDs ever
+qntaughtbc,Been taught in school about BC methods
+qndietpop,Drink 1+ times/day diet soda past 7d
+qncoffeetea,Drank 1+ times/day coffee/tea past 7d
+qnsportsdrink,"Did not drink a can, bottle, or glass of a sports drink"
+qnspdrk1,Drank 1+ times sports drink/day 7d
+qnspdrk2,Drank 2+ times sports drink/day 7d
+qnspdrk3,Drank 3+ times sports drink/day 7d
+qnenergydrink,Drank 1+ times/day energy drink past 7d
+qnsugardrink,Drank 1+times/day sugar beverage past 7d
+qnwater,Did not drink a bottle or glass of plain water
+qnwater1,Drank 1+ times plain water/day 7d
+qnwater2,Drank 2+ times plain water/day 7d
+qnwater3,Drank 3+ times plain water/day 7d
+qnfastfood,Ate 1+ meal/snack fast food 3+ days
+qnfoodallergy,Have to avoid some foods because eating the food could cause an allergic reaction
+qnsunburn,Had a sunburn
+qnconcentrating,"Have serious difficulty concentrating, remembering, or making decisions"
+qnspeakenglish,Speak English well or very well

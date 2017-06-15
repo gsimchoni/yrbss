@@ -16,7 +16,6 @@ Data from CDC YRBSS
 }
 \examples{
 data(yrbss_data)
-\donttest{iplotCurves(phe, times)}
 }
 \references{
 Centers for Disease Control and Prevention. Youth Risk Behavior Survey Questionnaire. Accessed on [2017-06-14].
