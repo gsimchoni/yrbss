@@ -3,15 +3,14 @@ Title: An easy R interface to the American CDC Youth Risk Behavior Surveillance 
 Version: 0.0.0.9000
 Date: 2017-06-15
 Authors@R: person("Giora", "Simchoni", email = "gsimchoni@gmail.com", role = c("aut", "cre"))
-Description: This package holds the "National" and "States" YRBSS data from
-    1991 to 2015 in a suitable format for R. It also supplies basic handlers
-	to adequately extract weighted probabilities and confidence intervals
-	from the binary YRBSS questions, as well as several graphs and maps.
+Description: This package holds the "National" and "States" American CDC YRBSS data from
+    1991 to 2015 in a suitable format for R. It also supplies a basic handler
+    to adequately extract weighted probabilities and confidence intervals
+    from the binary YRBSS questions.
 URL: http://github.com/gsimchoni/yrbss, http://giorasimchoni.com
 Depends: R (>= 3.3.3)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
-Imports: tidyverse,
-    survey
+Imports: survey

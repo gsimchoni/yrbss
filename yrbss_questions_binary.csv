@@ -1,0 +1,177 @@
+variable,label,summary
+sitecode,sitecode,NA
+sitename,sitename,NA
+sitetype,sitetype,NA
+sitetypenum,sitetypenum,NA
+year,year,NA
+survyear,survyear,NA
+weight,weight,NA
+stratum,stratum,NA
+PSU,PSU,NA
+record,record,NA
+age,How old are you?,NA
+sex,What is your sex?,NA
+grade,In what grade are you?,NA
+race4,race4,NA
+race7,race7,NA
+stheight,How tall are you without your shoes on?,NA
+stweight,How much do you weigh without your shoes on?,NA
+bmi,bmi,NA
+bmipct,bmipct,NA
+qnobese,qnobese,"Percentage of students who were obese (>= 95th percentile for body mass index, based on sex- and age-specific reference data from the 2000 CDC growth charts)"
+qnowt,qnowt,Percentage of students who were overweight (>= 85th percentile but
+q68,Which of the following best describes you?,NA
+q67,"During your life, with whom have you had sexual contact?",NA
+sexid,Sexual identity,NA
+sexid2,Collapsed sexual identity,NA
+sexpart,Sex of sexual contact(s),NA
+sexpart2,Collapsed sex of sexual contact(s):,NA
+qn8,Rarely or never wore a bicycle helmet,Percentage of students who never or rarely wore a bicycle helmet (among students who had ridden a bicycle during the 12 months before the survey)
+qn9,Rarely or never wore a seat belt,Percentage of students who never or rarely wore a seat belt (when riding in a car driven by someone else)
+qn10,Rode with a driver who had been drinking alcohol,Percentage of students who rode with a driver who had been drinking alcohol (in a car or other vehicle one or more times during the 30 days before the survey)
+qn11,Drove when drinking alcohol,"Percentage of students who drove when drinking alcohol (one or more times during the 30 days before the survey, among students who had driven a car or other vehicle during the 30 days before the survey)"
+qn12,Texted or e-mailed while driving a car or other vehicle,"Percentage of students who texted or e-mailed while driving a car or other vehicle (on at least 1 day during the 30 days before the survey, among students who had driven a car or other vehicle during the 30 days before the survey)"
+qn13,Carried a weapon,"Percentage of students who carried a weapon (such as a gun, knife, or club on at least 1 day during the 30 days before the survey)"
+qn14,Carried a gun,Percentage of students who carried a gun (on at least 1 day during the 30 days before the survey)
+qn15,Carried a weapon on school property,"Percentage of students who carried a weapon on school property (such as a gun, knife, or club on at least 1 day during the 30 days before the survey)"
+qn16,Did not go to school because they felt unsafe at school or on their way to or from school,Percentage of students who did not go to school because they felt unsafe at school or on their way to or from school (on at least 1 day during the 30 days before the survey)
+qn17,Were threatened or injured with a weapon on school property,"Percentage of students who were threatened or injured with a weapon on school property (such as a gun, knife, or club one or more times during the 12 months before the survey)"
+qn18,Were in a physical fight,Percentage of students who were in a physical fight (one or more times during the 12 months before the survey)
+qn19,Were injured in a physical fight,Percentage of students who were injured in a physical fight (one or more times during the 12 months before the survey; injuries had to be treated by a doctor or nurse)
+qn20,Were in a physical fight on school property,Percentage of students who were in a physical fight on school property (one or more times during the 12 months before the survey)
+qn21,Were ever physically forced to have sexual intercourse,Percentage of students who were ever physically forced to have sexual intercourse (when they did not want to)
+qn22,Experienced physical dating violence,"Percentage of students who experienced physical dating violence (one or more times during the 12 months before the survey, including being hit, slammed into something, or injured with an object or weapon on purpose by someone they were dating or going out with among students who dated or went out with someone during the12 months before the survey)"
+qn23,Experienced sexual dating violence,"Percentage of students who experienced sexual dating violence (one or more times during the 12 months before the survey, including kissing, touching, or being physically forced to have sexual intercourse when they did not want to by someone they were dating or going out with among students who dated or went out with someone during the 12 months before the survey)"
+qn24,Were bullied on school property,Percentage of students who were bullied on school property (during the 12 months before the survey)
+qn25,Were electronically bullied,"Percentage of students who were electronically bullied (including being bullied through e-mail, chat rooms, instant messaging, websites, or texting during the 12 months before the survey)"
+qn26,Felt sad or hopeless,Percentage of students who felt sad or hopeless (almost every day for 2 or more weeks in a row so that they stopped doing some usual activities during the 12 months before the survey)
+qn27,Seriously considered attempting suicide,Percentage of students who seriously considered attempting suicide (during the 12 months before the survey)
+qn28,Made a plan about how they would attempt suicide,Percentage of students who made a plan about how they would attempt suicide (during the 12 months before the survey)
+qn29,Attempted suicide,Percentage of students who attempted suicide (one or more times during the 12 months before the survey)
+qn30,"Attempted suicide that resulted in an injury, poisoning, or overdose that had to be treated by a doctor or nurse","Percentage of students who attempted suicide that resulted in an injury, poisoning, or overdose that had to be treated by a doctor or nurse (during the 12 months before the survey)"
+qn31,Ever tried cigarette smoking,Percentage of students who ever tried cigarette smoking (even one or two puffs)
+qn32,Smoked a whole cigarette before age 13 years,Percentage of students who smoked a whole cigarette before age 13 years (for the first time)
+qn33,Currently smoked cigarettes,Percentage of students who currently smoked cigarettes (on at least 1 day during the 30 days before the survey)
+qn34,Smoked more than 10 cigarettes per day,Percentage of students who smoked more than 10 cigarettes per day (during the 30 days before the survey among students who currently smoked cigarettes on the days they smoked)
+qn35,Usually obtained their own cigarettes by buying them in a store or gas station,Percentage of students who usually obtained their own cigarettes by buying them in a store or gas station (during the 30 days before the survey among students who currently smoked cigarettes and who were aged
+qn36,Tried to quit smoking cigarettes,Percentage of students who tried to quit smoking cigarettes (among students who currently smoked cigarettes during the 12 months before the survey)
+qn37,Currently used smokeless tobacco,"Percentage of students who currently used smokeless tobacco (chewing tobacco, snuff, or dip on at least 1 day during the 30 days before the survey)"
+qn38,Currently smoked cigars,"Percentage of students who currently smoked cigars (cigars, cigarillos, or little cigars on at least 1 day during the 30 days before the survey)"
+qn39,Ever used electronic vapor products,"Percentage of students who ever used electronic vapor products (e-cigarettes, e-cigars, e-pipes, vape pipes, vaping pens, e-hookahs, and hookah pens such as blu, NJOY, or Starbuzz)"
+qn40,Currently used electronic vapor products,"Percentage of students who currently used electronic vapor products (e-cigarettes, ecigars, e-pipes, vape pipes, vaping pens, e-hookahs, and hookah pens such as blu, NJOY, or Starbuzz on at least 1 day during the 30 days before the survey)"
+qn41,Ever drank alcohol,Percentage of students who ever drank alcohol (at least one drink of alcohol on at least 1 day during their life)
+qn42,Drank alcohol before age 13 years,Percentage of students who drank alcohol before age 13 years (for the first time other than a few sips)
+qn43,Currently drank alcohol,Percentage of students who currently drank alcohol (at least one drink of alcohol on at least 1 day during the 30 days before the survey)
+qn44,Drank five or more drinks of alcohol in a row,Percentage of students who drank five or more drinks of alcohol in a row (within a couple of hours on at least 1 day during the 30 days before the survey)
+qn45,Reported that the largest number of drinks they had in a row was 10 or more,Percentage of students who reported that the largest number of drinks they had in a row was 10 or more (within a couple of hours during the 30 days before the survey)
+qn46,Usually obtained the alcohol they drank by someone giving it to them,Percentage of students who usually obtained the alcohol they drank by someone giving it to them (among students who currently drank alcohol)
+qn47,Ever used marijuana,Percentage of students who ever used marijuana (one or more times during their life)
+qn48,Tried marijuana before age 13 years,Percentage of students who tried marijuana before age 13 years (for the first time)
+qn49,Currently used marijuana,Percentage of students who currently used marijuana (one or more times during the 30 days before the survey)
+qn50,Ever used cocaine,"Percentage of students who ever used cocaine (any form of cocaine, such as powder, crack, or freebase, one or more times during their life)"
+qn51,Ever used inhalants,"Percentage of students who ever used inhalants (sniffed glue, breathed the contents of aerosol spray cans, or inhaled any paints or sprays to get high, one or more times during their life)"
+qn52,Ever used heroin,"Percentage of students who ever used heroin (also called ""smack,"" ""junk,"" or ""China white,"" one or more times during their life)"
+qn53,Ever used methamphetamines,"Percentage of students who ever used methamphetamines (also called ""speed,"" ""crystal,"" ""crank,"" or ""ice,"" one or more times during their life)"
+qn54,Ever used ecstasy,"Percentage of students who ever used ecstasy (also called ""MDMA,"" one or more times during their life)"
+qn55,Ever used synthetic marijuana,"Percentage of students who ever used synthetic marijuana (also called ""K2"", ""Spice"", ""fake weed"", ""King Kong"", ""Yucatan Fire"", ""Skunk"", or ""Moon Rocks"", one or more times during their life)"
+qn56,Ever took steroids without a doctor's prescription,"Percentage of students who ever took steroids without a doctor's prescription (pills or shots, one or more times during their life)"
+qn57,Ever took prescription drugs without a doctor's prescription,"Percentage of students who ever took prescription drugs without a doctor's prescription (such as OxyContin, Percocet, Vicodin, codeine, Adderall, Ritalin, or Xanax, one or more times during their life)"
+qn58,Ever injected any illegal drug,Percentage of students who ever injected any illegal drug (used a needle to inject any illegal drug into their body one or more times during their life)
+qn59,"Were offered, sold, or given an illegal drug on school property","Percentage of students who were offered, sold, or given an illegal drug on school property (during the 12 months before the survey)"
+qn60,Ever had sexual intercourse,Percentage of students who ever had sexual intercourse
+qn61,Had sexual intercourse before age 13 years,Percentage of students who had sexual intercourse before age 13 years (for the first time)
+qn62,Had sexual intercourse with four or more persons,Percentage of students who had sexual intercourse with four or more persons (during their life)
+qn63,Were currently sexually active,Percentage of students who were currently sexually active (sexual intercourse with at least one person during the 3 months before the survey)
+qn64,Drank alcohol or used drugs before last sexual intercourse,Percentage of students who drank alcohol or used drugs before last sexual intercourse (among students who were currently sexually active)
+qn65,Used a condom,Percentage of students who used a condom (during last sexual intercourse among students who were currently sexually active)
+qn66,Used birth control pills,Percentage of students who used birth control pills (before last sexual intercourse to prevent pregnancy among students who were currently sexually active)
+qn69,Described themselves as slightly or very overweight,Percentage of students who described themselves as slightly or very overweight
+qn70,Were trying to lose weight,Percentage of students who were trying to lose weight
+qn71,Did not drink fruit juice,Percentage of students who did not drink fruit juice (100% fruit juices one or more times during the 7 days before the survey)
+qn72,Did not eat fruit,Percentage of students who did not eat fruit (one or more times during the 7 days before the survey)
+qn73,Did not eat salad,Percentage of students who did not eat salad (during the 7 days before the survey)
+qn74,Did not eat potatoes,Percentage of students who did not eat potatoes (during the 7 days before the survey)
+qn75,Did not eat carrots,Percentage of students who did not eat carrots (during the 7 days before the survey)
+qn76,Did not eat other vegetables,Percentage of students who did not eat other vegetables (during the 7 days before the survey)
+qn77,"Did not drink a can, bottle, or glass of soda or pop","Percentage of students who did not drink a can, bottle, or glass of soda or pop (not including diet soda or diet pop, during the 7 days before the survey)"
+qn78,Did not drink milk,Percentage of students who did not drink milk (during the 7 days before the survey)
+qn79,Did not eat breakfast,Percentage of students who did not eat breakfast (during the 7 days before the survey)
+qn80,Were physically active at least 60 minutes per day on 5 or more days,Percentage of students who were physically active at least 60 minutes per day on 5 or more days (doing any kind of physical activity that increased their heart rate and made them breathe hard some of the time during the 7 days before the survey)
+qn81,Watched television 3 or more hours per day,Percentage of students who watched television 3 or more hours per day (on an average school day)
+qn82,Played video or computer games or used a computer 3 or more hours per day,Percentage of students who played video or computer games or used a computer 3 or more hours per day (for something that was not school work on an average school day)
+qn83,Attended physical education classes on 1 or more days,Percentage of students who attended physical education classes on 1 or more days (in an average week when they were in school) Variable label: Attended physical education classes on 1 or
+qn84,Played on at least one sports team,Percentage of students who played on at least one sports team (run by their school or community groups during the 12 months before the survey)
+qn85,Were ever tested for HIV,Percentage of students who were ever tested for HIV (not including tests done when donating blood)
+qn86,Saw a dentist,"Percentage of students who saw a dentist (for a check-up, exam, teeth cleaning, or other dental work during the 12 months before the survey)"
+qn87,Had ever been told by a doctor or nurse that they had asthma,Percentage of students who had ever been told by a doctor or nurse that they had asthma
+qn88,Had 8 or more hours of sleep,Percentage of students who had 8 or more hours of sleep (on an average school night)
+qn89,Made mostly A's or B's in school,Percentage of students who made mostly A's or B's in school (during the 12 months before the survey)
+qnfrcig,Currently frequently smoked cigarettes,Percentage of students who currently frequently smoked cigarettes (on 20 or more days during the 30 days before the survey)
+qndaycig,Currently smoked cigarettes daily,Percentage of students who currently smoked cigarettes daily (on all 30 days during the 30 days before the survey)
+qncigint,Usually obtained their own cigarettes by buying on the internet,Percentage of students who usually obtained their own cigarettes by buying on the internet (during the 30 days before the survey among students who currently smoked cigarettes and who were aged
+qntob2,Currently smoked cigarettes or cigars,Percentage of students who currently smoked cigarettes or cigars (on at least 1 day during the 30 days before the survey)
+qntob3,"Currently used cigarettes, cigars, or smokeless tobacco","Percentage of students who currently used cigarettes, cigars, or smokeless tobacco (on at least 1 day during the 30 days before the survey)"
+qntob4,Currently used tobacco,"Percentage of students who currently used tobacco (current cigarette, smokeless tobacco, cigar, or electronic vapor product use on at least 1 day during the 30 days before the survey)"
+qnnotob2,Did not currently smoke cigarettes or cigars,Percentage of students who did not currently smoke cigarettes or cigars (on at least 1 day during the 30 days before the survey)
+qnnotob3,"Did not currently use cigarettes, cigars, or smokeless tobacco","Percentage of students who did not currently use cigarettes, cigars, or smokeless tobacco (on at least 1 day during the 30 days before the survey)"
+qnnotob4,Did not currently use tobacco,"Percentage of students who did not currently use tobacco (current cigarette, smokeless tobacco, cigar, or electronic vapor product use on at least 1 day during the 30 days before the survey)"
+qniudimp,"Used an IUD (e.g., Mirena or ParaGard) or implant (e.g., Implanon or Nexplanon)","Percentage of students who used an IUD (e.g., Mirena or ParaGard) or implant (e.g., Implanon or Nexplanon) (before last sexual intercourse to prevent pregnancy among students who were currently sexually active)"
+qnshparg,"Used a shot (e.g., Depo-Provera), patch (e.g., OrthoEvra), or birth control ring (e.g., NuvaRing)","Percentage of students who used a shot (e.g., Depo-Provera), patch (e.g., OrthoEvra), or birth control ring (e.g., NuvaRing) (during last sexual intercourse among students who were currently sexually active)"
+qnothhpl,"Used birth control pills; an IUD or implant; or a shot, patch, or birth control ring","Percentage of students who used birth control pills; an IUD or implant; or a shot, patch, or birth control ring (before last sexual intercourse to prevent pregnancy among students who were currently sexually active)"
+qndualbc,"Used both a condom during and birth control pills; an IUD or implant; or a shot, patch, or birth control ring before last sexual intercourse","Percentage of students who used both a condom during and birth control pills; an IUD or implant; or a shot, patch, or birth control ring before last sexual intercourse (to prevent STD and pregnancy among students who were currently sexually active)"
+qnbcnone,Did not use any method to prevent pregnancy,Percentage of students who did not use any method to prevent pregnancy (during last sexual intercourse among students who were currently sexually active)
+qnfr0,Did not eat fruit or drink 100% fruit juices,Percentage of students who did not eat fruit or drink 100% fruit juices (during the 7 days before the survey)
+qnfr1,Ate fruit or drank 100% fruit juices one or more times per day,Percentage of students who ate fruit or drank 100% fruit juices one or more times per day (during the 7 days before the survey)
+qnfr2,Ate fruit or drank 100% fruit juices two or more times per day,Percentage of students who ate fruit or drank 100% fruit juices two or more times per day (during the 7 days before the survey)
+qnfr3,Ate fruit or drank 100% fruit juices three or more times per day,Percentage of students who ate fruit or drank 100% fruit juices three or more times per day (during the 7 days before the survey)
+qnveg0,Did not eat vegetables,"Percentage of students who did not eat vegetables (green salad, potatoes [excluding French fries, fried potatoes, or potato chips], carrots, or other vegetables, during the 7 days before the survey)"
+qnveg1,Ate vegetables one or more times per day,"Percentage of students who ate vegetables one or more times per day (green salad, potatoes [excluding French fries, fried potatoes, or potato chips], carrots, or other vegetables, during the 7 days before the survey)"
+qnveg2,Ate vegetables two or more times per day,"Percentage of students who ate vegetables two or more times per day (green salad, potatoes [excluding French fries, fried potatoes, or potato chips], carrots, or other vegetables, during the 7 days before the survey)"
+qnveg3,Ate vegetables three or more times per day,"Percentage of students who ate vegetables three or more times per day (green salad, potatoes [excluding French fries, fried potatoes, or potato chips], carrots, or other vegetables, during the 7 days before the survey)"
+qnsoda1,"Drank a can, bottle, or glass of soda or pop one or more times per day","Percentage of students who drank a can, bottle, or glass of soda or pop one or more times per day (not including diet soda or diet pop, during the 7 days before the survey)"
+qnsoda2," Drank a can, bottle, or glass of soda or pop two or more times per day","Percentage of students who drank a can, bottle, or glass of soda or pop two or more times per day (not including diet soda or diet pop, during the 7 days before the survey)"
+qnsoda3,"Drank a can, bottle, or glass of soda or pop three or more times per day","Percentage of students who drank a can, bottle, or glass of soda or pop three or more times per day (not including diet soda or diet pop, during the 7 days before the survey)"
+qnmilk1,Drank one or more glasses per day of milk,Percentage of students who drank one or more glasses per day of milk (during the 7 days before the survey)
+qnmilk2,Drank two or more glasses per day of milk,Percentage of students who drank two or more glasses per day of milk (during the 7 days before the survey)
+qnmilk3,Drank three or more glasses per day of milk,Percentage of students who drank three or more glasses per day of milk (during the 7 days before the survey)
+qnbk7day,Ate breakfast on all 7 days,Percentage of students who ate breakfast on all 7 days (during the 7 days before the survey)
+qnpa0day,Did not participate in at least 60 minutes of physical activity on at least 1 day,Percentage of students who did not participate in at least 60 minutes of physical activity on at least 1 day (doing any kind of physical activity that increased their heart rate and made them breathe hard some of the time during the 7 days before the survey)
+qnpa7day,Were physically active at least 60 minutes per day on all 7 days,Percentage of students who were physically active at least 60 minutes per day on all 7 days (doing any kind of physical activity that increased their heart rate and made them breathe hard some of the time during the 7 days before the survey)
+qndlype,Attended physical education classes on all 5 days,Percentage of students who attended physical education classes on all 5 days (in an average week when they were in school)
+qnhowmarijuana,"Usually used marijuana by smoking it in a joint, bong, pipe, or blunt","Percentage of students who usually used marijuana by smoking it in a joint, bong, pipe, or blunt (during the 30 days before the survey, among students who used marijuana)"
+qnhallucdrug,Used LSD 1+ times,"Percentage of students who have used hallucinogenic drugs, such as LSD, acid, PCP, angel dust, mescaline, or mushrooms, one or more times during their life"
+qnsunscreenuse,Mostly or always wear sunscreen,Percentage of students who most of the time or always wear sunscreen with an SPF of 15 or higher when they are outside for more than one hour on a sunny day
+qnindoortanning,Used 1+ times indoor tanning,"Percentage of students who used an indoor tanning device (such as a sunlamp, sunbed, or tanning booth [not including getting a spray-on tan], one or more times during the 12 months before the survey)"
+qnmusclestrength,Strengthened muscles 3+ of past 7 days,"Percentage of students who did exercises to strengthen or tone their muscles, such as push-ups, sit-ups, or weight lifting, on three or more of the past seven days"
+qngenderexp,Equally feminine and masculine,Percentage of students who think other people at school would describe them as equally feminine and masculine
+qncelldriving,Talked on cell phone driving 1+ past 30d,"Among students who drove a car or other vehicle during the past 30 days, the percentage who talked on a cell phone while driving on one or more of the past 30 days"
+qnbullyweight,Been teased b/c of weight past 12 mos,"Percentage of students who have ever been the victim of teasing or name calling during the past 12 months because of their weight, size, or physical appearance"
+qnbullygay,Been teased b/c labeled GLB past 12 mos,"Percentage of students who have ever been the victim of teasing or name calling during the past 12 months because someone thought they were gay, lesbian, or bisexual"
+qntypealcohol,Liquor type alcohol drank past 30 days,"Among students who drank alcohol during the past 30 days and who have a usual type of alcohol that they drink, the percentage who reported liquor, such as vodka, rum, scotch, bourbon, or whisky, as their type of alcohol they usually drank during the past 30 days"
+qncigschool,Used cigarettes at school 1+ 30 days,Percentage of students who smoked cigarettes on school property on one or more of the past 30 days
+qnchewtobschool,Used snuff/dip at school 1+ 30 days,"Percentage of students who used chewing tobacco, snuff, or dip on school property on one or more of the past 30 days"
+qnalcoholschool,Had 1+ drinks at school 1+ 30 days,Percentage of students who had at least one drink of alcohol on school property on one or more of the past 30 days
+qnmarijuanaschool,Used marijuana @ school 1+ times 30 day,Percentage of students who used marijuana on school property one or more times during the past 30 days
+qnprescription30d,Prescription drug 1+ times past 30 days,Percentage of students who took a prescription drug without a doctor's prescription one or more times during the past 30 days
+qncurrentcocaine,Used cocaine 1+ times past 30 days,"Percentage of students who used any form of cocaine, including powder, crack, or freebase, one or more times during the past 30 days"
+qncurrentasthma,With current asthma,Percentage of students who had been told by a doctor or nurse that they had asthma and who still have asthma
+qntaughtsexed,Had sex education in school ever,Percentage of students who have ever had sex education in school
+qntaughtstd,Been taught in school about STDs ever,Percentage of students who have ever been taught in school about sexually transmitted diseases (STDs)
+qntaughtbc,Been taught in school about BC methods,Percentage of students who have ever been taught in school about birth control methods
+qndietpop,Drink 1+ times/day diet soda past 7d,"Percentage of students who drank a can, bottle, or glass of diet soda or pop, such as Diet Coke, Diet Pepsi, or Sprite Zero, one or more times per day during the past seven days"
+qncoffeetea,Drank 1+ times/day coffee/tea past 7d,"Percentage of students who drank a cup, can, or bottle of coffee, coffee drinks, or any kind of tea one or more times per day during the past seven days"
+qnsportsdrink,"Did not drink a can, bottle, or glass of a sports drink","Percentage of students who did not drink a can, bottle, or glass of a sports drink (such as Gatorade or PowerAde, not including low-calorie sports drinks such as Propel or G2, during the 7 days before the survey)"
+qnspdrk1,Drank 1+ times sports drink/day 7d,"Percentage of students who drank a can, bottle, or glass of a sports drink one or more times per day (not including low calorie sports drinks such as Propel or G2, during the 7 days before the survey)"
+qnspdrk2,Drank 2+ times sports drink/day 7d,"Percentage of students who drank a can, bottle, or glass of a sports drink two or more times per day (not including low calorie sports drinks such as Propel or G2, during the 7 days before the survey)"
+qnspdrk3,Drank 3+ times sports drink/day 7d,"Percentage of students who drank a can, bottle, or glass of a sports drink three or more times per day (not including low calorie sports drinks such as Propel or G2, during the 7 days before the survey)"
+qnenergydrink,Drank 1+ times/day energy drink past 7d,"Percentage of students who drank a can, bottle, or glass of an energy drink, such as Red Bull or Jolt, one or more times per day during the past seven days"
+qnsugardrink,Drank 1+times/day sugar beverage past 7d,"Percentage of students who drank a can, bottle, or glass of a sugar-sweetened beverage such as lemonade, sweetened tea or coffee drinks, flavored milk, Snapple, or Sunny Delight one or more times per day during the past seven days"
+qnwater,Did not drink a bottle or glass of plain water,"Percentage of students who did not drink a bottle or glass of plain water (including tap, bottled, and unflavored sparkling water, during the 7 days before the survey)"
+qnwater1,Drank 1+ times plain water/day 7d,Percentage of students who drank one or more glasses per day of water (during the 7 days before the survey)
+qnwater2,Drank 2+ times plain water/day 7d,Percentage of students who drank two or more glasses per day of water (during the 7 days before the survey)
+qnwater3,Drank 3+ times plain water/day 7d,Percentage of students who drank three or more glasses per day of water (during the 7 days before the survey)
+qnfastfood,Ate 1+ meal/snack fast food 3+ days,"Percentage of students who ate at least one meal or snack from a fast food restaurant such as McDonald's, Taco Bell, or KFC on three or more of the past seven days"
+qnfoodallergy,Have to avoid some foods because eating the food could cause an allergic reaction,"Percentage of students who have to avoid some foods because eating the food could cause an allergic reaction (such as skin rashes, swelling, itching, vomiting, coughing, or trouble breathing)"
+qnsunburn,Had a sunburn,"Percentage of students who had a sunburn (including even a small part of the skin turning red or hurting for 12 hours or more after being outside in the sun or after using a sunlamp or other indoor tanning device, one or more times during the 12 months before the survey)"
+qnconcentrating,"Have serious difficulty concentrating, remembering, or making decisions","Percentage of students who have serious difficulty concentrating, remembering, or making decisions (because of a physical, mental, or emotional problem)"
+qnspeakenglish,Speak English well or very well,Percentage of students who speak English well or very well

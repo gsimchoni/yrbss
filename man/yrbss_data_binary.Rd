@@ -3,22 +3,29 @@
 \docType{data}
 \name{yrbss_data_binary}
 \alias{yrbss_data_binary}
-\title{YRBSS Data - Binary Version}
-\format{An object of class \code{"tbl_df"};}
+\title{YRBSS Data - Binary Version - National Data}
+\format{An object of class \code{"survey.design2"}}
 \source{
 \href{www.cdc.gov/yrbs}{CDC YRBSS Official Site}
 }
 \usage{
-data(yrbss_data)
+data(yrbss_data_binary)
 }
 \description{
-Data from CDC YRBSS - the Binary Version, where multiple choice questions were grouped into two options.
+Data from CDC YRBSS - the Binary Version, where multiple choice questions
+were grouped into two options. The object itself is of class \code{"survey.design2"}
+from the \code{survey} package, and its raw data can be accessed via
+\code{yrbss_data_binary$variables}, though highly NOT recommended, see references.
 }
 \examples{
 data(yrbss_data_binary)
 }
 \references{
-Centers for Disease Control and Prevention. Youth Risk Behavior Survey Questionnaire. Accessed on [2017-06-14].
+Centers for Disease Control and Prevention. Youth Risk Behavior
+Survey Questionnaire. Accessed on [2017-06-14].
 (\href{www.cdc.gov/yrbs}{CDC YRBSS Official Site})
+}
+\seealso{
+\code{\link{yrbss_states_data_binary}}, \code{\link{yrbss_questions_binary}}
 }
 \keyword{datasets}

@@ -1,0 +1,33 @@
+#' YRBSS Data - Binary Version - List of Questions
+#'
+#' List of questions (variable name, label and summary) for data from CDC YRBSS
+#' - the Binary Version, where multiple choice questions were grouped into two
+#' options.
+#'
+#' @docType data
+#'
+#' @usage data(yrbss_questions_binary)
+#'
+#' @format An object of class \code{"tbl_df"}. It is recommended to load the
+#' \code{tibble} package or the \code{tidyverse} for a nicer output.
+#'
+#' @keywords datasets
+#'
+#' @references Centers for Disease Control and Prevention. Youth Risk Behavior
+#' Survey Questionnaire. Accessed on [2017-06-14].
+#' (\href{www.cdc.gov/yrbs}{CDC YRBSS Official Site})
+#' 
+#' See also the "2015_yrbs_sadc_documentation.pdf" file in the library directory
+#' for the complete details for each question.
+#'
+#' See also the "yrbss_questions_binary.csv" in the library directory - it might
+#' be more comfortable to open this in MS Excel for the full details.
+#' 
+#' @source \href{www.cdc.gov/yrbs}{CDC YRBSS Official Site}
+#'
+#' @seealso 
+#' \code{\link{yrbss_data_binary}}, \code{\link{yrbss_states_data_binary}}
+#' 
+#' @examples
+#' data(yrbss_questions_binary)
+"yrbss_questions_binary"
